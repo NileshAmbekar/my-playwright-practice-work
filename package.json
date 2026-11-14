@@ -1,0 +1,23 @@
+{
+  "name": "my-playwright-practice-work-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NileshAmbekar/my-playwright-practice-work.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NileshAmbekar/my-playwright-practice-work/issues"
+  },
+  "homepage": "https://github.com/NileshAmbekar/my-playwright-practice-work#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.6"
+  }
+}
